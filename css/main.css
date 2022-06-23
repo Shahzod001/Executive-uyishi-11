@@ -466,6 +466,7 @@ body{
 }
 .country-img {
     margin-bottom: 27px;
+    border-radius: 30px;
 }
 .country-item-heading {
     font-weight: 900;
